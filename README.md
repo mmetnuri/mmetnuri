@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Nuri Özdil</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<h3 align="center">Here is some of my projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmetnuri&label=Profile%20views&color=0e75b6&style=flat" alt="mmetnuri" /> </p>
 
