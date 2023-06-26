@@ -5,7 +5,7 @@
 # 💫 About Me:
 I’m currently learning JavaScript and React
 
-
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mmetnuri/) 
 
@@ -21,7 +21,7 @@ I’m currently learning JavaScript and React
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mmetnuri&icon=2&color=3)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
